@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Overview
+## 📌 Overview 
 
 Work-life balance is one of the most studied — and least quantified — aspects of modern life. Most analyses stop at correlation. This project goes further: can we actually *predict* someone's work-life balance score from behavioral and lifestyle data?
 
